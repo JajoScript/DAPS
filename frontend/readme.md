@@ -28,3 +28,15 @@ Frameworks JS
 - @babel/preset-env
 - @babel/preset-react
 - babel-plugin-module-resolver
+
+**Loaders**
+
+- html-loader
+- css-loader
+- sass-loader
+- style-loader
+
+**Plugins**
+
+- html-webpack-plugin
+- mini-css-extract-plugin
