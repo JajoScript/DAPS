@@ -1,0 +1,8 @@
+// Importaciones.
+@use 'variables';
+@use 'fonts';
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: variables.$bg-color;
+}

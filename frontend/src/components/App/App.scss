@@ -1,0 +1,27 @@
+@use '../../styles/variables';
+
+.container {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  color: variables.$primary-color;
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.subTitle {
+  color: variables.$secondary-color;
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}

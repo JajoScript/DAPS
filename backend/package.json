@@ -1,0 +1,13 @@
+{
+  "name": "daps_backend",
+  "version": "1.0.0",
+  "description": "Procesamiento de datos para el sitio DAPS",
+  "main": "./src/index.js",
+  "repository": "https://github.com/JajoScript/DAPS",
+  "author": "JajoScript",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
